@@ -16,10 +16,10 @@ Now, to use the character controller to your VRoid project
 
 2. Drag your VRoid prefab to the Hierarchy Window.
 
-3. Create an empty game object for Vita (your VRoid Model) and rename it to "ParentVita". Place your Vita object as a child of this empty object.
+3. Create an empty game object for Vita (your VRoid Model) and rename it to "Vita Parent". Place your Vita object as a child of this empty object.
 <p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/03.png" width=50% height=50%></p>
 
-4. Duplicate the "Unity Starter Characters" object. We're going to move some components and child object from "PlayerArmature" object to Vita model. Hide the original "Unity Starter Character" and Prefab > Unpack everything
+4. We're going to move some components and child object from "PlayerArmature" object to Vita model. Let's duplicate the "Unity Starter Characters" object Hide the original "Unity Starter Character" and Prefab > Unpack everything
 <p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/04.png" width=50% height=50%></p>
 
 5. Move "Main Camera" object and "PlayerFollowCamera" object from the "Unity Starter Character" child to "ParentVita" as its child.
