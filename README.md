@@ -5,6 +5,7 @@ I made this project to help with those who want to make Anime-looking game and l
 
 Huge credit to these guys who made this possible!
 UniVRM plugin: https://github.com/vrm-c/UniVRM
+
 Unity Starter Assets - Third Person Character Controller: https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
 
 # Instructions
