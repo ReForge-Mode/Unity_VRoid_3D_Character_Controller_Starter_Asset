@@ -1,5 +1,5 @@
 # Unity VRoid 3D Character Controller Starter Asset
-This project will show you how to use VRoid Studio model with the Unity Starter Asset - Third Person Character Controller. This project uses Unity version 2021.2.3f1, earlier versions of Unity might not work. 
+This project will show you how to use VRoid Studio model with the Unity Starter Asset - Third Person Character Controller. This project uses Unity version 2021.2.3f1, earlier versions of Unity might not work. Keep in mind that this controller uses the New Input System. To change the Input System, go to Edit > Project Settings > Player. In "Configuration", select "Active Input Handling" and change "Input Manager (Old)" to "Input System Package (New)". If you can't find it, you can search for it with the search box on the project settings window.
 
 I made this project to help with those who want to make Anime-looking game and learning to use the free character controller provided for free from Unity themselves. 
 
