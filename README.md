@@ -28,7 +28,7 @@ Now, to use the character controller to your VRoid project
 6. Move "PlayerCameraRoot" object from "PlayerArmature" child to Vita as a child object. Change its position in the inspector to (0, 1.375, 0)
 <p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/07.png" width=90% height=90%></p>
 
-7. Move every component from "PlayerArmature" to Vita, except for the Animator. For the Animator, just change the Controller field used in Vita to the one that is used by PlayerArmature. The animation will work with the VRM object. You can now delete the duplicate of "Unity Starter Character"
+7. Move every component or copy and paste the components from "PlayerArmature" to Vita, except for the Animator. For the Animator, disable the Root Motion, and change the Controller field used in Vita to the one that is used by PlayerArmature. The animation will work with the VRM object. You can now delete the duplicate of "Unity Starter Character"
 
 8. Adjust the CharacterController component so that Vita doesn’t look flying above the ground when walking. Set the collider Y Center to 1.08. This Y value might change depending on how high your character is.
 <p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_3D_Character_Controller_Starter_Asset/blob/main/09.png" width=90% height=90%></p>
